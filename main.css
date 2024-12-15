@@ -256,7 +256,7 @@ body {
 
 .content.actived {
     bottom: 150px;
-    width: 60vh;
+    width: 50vh;
     height: fit-content;
     max-height: 450px;
     margin: 0;
